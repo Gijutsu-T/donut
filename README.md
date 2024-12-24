@@ -1,1 +1,1 @@
-# spinning terminal donut
+# Spinning ASCII 3D donut
