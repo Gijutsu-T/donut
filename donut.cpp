@@ -68,7 +68,7 @@ int main() {
             output.append(b, 1760);
             std::cout << output;
 
-            // there might be an error squiggle here because this is an infinite loop
+            
             std::this_thread::sleep_for(std::chrono::milliseconds(50));
         }
     } catch (...) {
